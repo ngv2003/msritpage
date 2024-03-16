@@ -1,0 +1,85 @@
+.navbar-image{
+    height:100px;
+    width: 160px;
+}
+.nav-item a{
+    font-size: x-large;
+    font-weight: 400;
+    font-stretch:wider;
+}
+
+.about h1{
+    font-style:normal;  
+    text-align: center;
+}
+.depinfo h2{
+    align-items: center;
+}
+.vision{
+    margin: 120px;
+}
+.vision h2{
+    text-align:left;
+}
+.depinfo{
+    margin:120px;
+}
+.about{
+    margin: 120px;
+}
+.about h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+body{
+    background-color:rgb(166, 246, 235) ;
+}
+
+.cards{
+    margin: 100px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+.Syllabus h1{
+    text-align: center;
+}
+.boxes{
+    margin: 100px;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+.card{
+    min-height: 300px;
+    min-width: 350px;
+    margin: 30px;
+    background-color: #1af4a4;
+    padding: 50px;
+}
+.box{
+    min-height: 300px;
+    min-width: 750px;
+    margin: 30px;
+    background-color: #1af4a4;
+    padding: 50px;
+    align-items: center;
+}
+.cards h1{
+    text-align: center;
+}
+
+#feat{
+    text-align: center;
+    margin:100px;
+}
+
+#feat h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.navbar{
+    background-color: CCD3CA;
+}
